@@ -5,7 +5,7 @@ date updated: 2023-04-04 10:55
 
 # Javascript Cheatsheets
 
-Cheatsheet<sup>[1](#footnote1)</sup> simpel ini sebenarnya dibuat dan dicatat pada dokmuen word pada saat saya gabut gak tau mau ngapain (2018). Kemudian saya tulis kembali untuk saya jadikan referensi pribadi dan bukan untuk apa-apa. Ini juga ditulis ulang karena gabut (2023).
+Cheatsheet(s)<sup>[1](#footnote1)</sup> simpel ini sebenarnya dibuat dan dicatat pada dokmuen word pada saat saya gabut gak tau mau ngapain (2018). Kemudian saya tulis kembali untuk saya jadikan referensi pribadi dan bukan untuk apa-apa. Ini juga ditulis ulang karena gabut (2023).
 
 ## Table of Contents
 
