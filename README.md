@@ -1,6 +1,6 @@
 ---
 date created: 2023-04-04 09:38
-date updated: 2023-04-04 10:55
+date updated: 2023-04-04 13:08
 ---
 
 # Javascript Cheatsheets
@@ -14,58 +14,57 @@ Cheatsheet(s)<sup>[1](#footnote1)</sup> simpel ini sebenarnya dibuat dan dicatat
 | 1  | [Program Hello World](#program-hello-world)                       |
 | 2  | [Komentar](#komentar)                                             |
 | 3  | [Tipe Data Number](#tipe-data-number)                             |
-| 4  | [Tipe Data Number](#tipe-data-number)                             |
-| 5  | [Tipe Data Boolean](#tipe-data-boolean)                           |
-| 6  | [Tipe Data String](#tipe-data-string)                             |
-| 7  | [Variable](#variable)                                             |
-| 8  | [Operator Matematika](#operator-matematika)                       |
-| 9  | [Operator Perbandingan](#operator-perbandingan)                   |
-| 10 | [Operator Logika](#operator-logika)                               |
-| 11 | [Console](#console)                                               |
-| 12 | [String Template](#string-template)                               |
-| 13 | [Konversi String dan Number](#konversi-string-dan-number)         |
-| 14 | [Tipe Data Array](#tipe-data-array)                               |
-| 15 | [Tipe Data Object](#tipe-data-object)                             |
-| 16 | [If Expressions](#if-expressions)                                 |
-| 17 | [Popup](#popup)                                                   |
-| 18 | [Undefined](#undefined)                                           |
-| 19 | [Null](#null)                                                     |
-| 20 | [Switch Expression](#switch-expression)                           |
-| 21 | [Operator Typeof](#operator-typeof)                               |
-| 22 | [Operator In](#operator-in)                                       |
-| 23 | [Ternary Operator](#ternary-operator)                             |
-| 24 | [Optional Chaining](#optional-chaining)                           |
-| 25 | [Falsy and Truthy](#falsy-and-truthy)                             |
-| 26 | [Operator Logika di Non Boolean](#operator-logika-di-non-boolean) |
-| 27 | [For Loop](#for-loop)                                             |
-| 28 | [While Loop](#while-loop)                                         |
-| 29 | [Do While Loop](#do-while-loop)                                   |
-| 30 | [Break and Continue](#break-and-continue)                         |
-| 31 | [Label](#label)                                                   |
-| 32 | [For In](#for-in)                                                 |
-| 33 | [For Of](#for-of)                                                 |
-| 34 | [With Statement](#with-statement)                                 |
-| 35 | [Function](#function)                                             |
-| 36 | [Function Parameter](#function-parameter)                         |
-| 37 | [Function Return Value](#function-return-value)                   |
-| 38 | [Optional Parameter](#optional-parameter)                         |
-| 39 | [Default Parameter](#default-parameter)                           |
-| 40 | [Rest Parameter](#rest-parameter)                                 |
-| 41 | [Function Sebagai Value](#function-sebagai-value)                 |
-| 42 | [Anonymous Function](#anonymous-function)                         |
-| 43 | [Function dalam Function](#function-dalam-function)               |
-| 44 | [Scope](#scope)                                                   |
-| 45 | [Recursive Function](#recursive-function)                         |
-| 46 | [Function Generator](#function-generator)                         |
-| 47 | [Arrow Function](#arrow-function)                                 |
-| 48 | [Closure](#closure)                                               |
-| 49 | [Object Method](#object-method)                                   |
-| 50 | [Kata Kunci This](#kata-kunci-this)                               |
-| 51 | [Arrow Function di Object](#arrow-function-di-object)             |
-| 52 | [Getter dan Setter](#getter-dan-setter)                           |
-| 53 | [Masalah Variable Var](#masalah-variable-var)                     |
-| 54 | [Destructuring](#destructuring)                                   |
-| 55 | [Strict Mode](#strict-mode)                                       |
+| 4  | [Tipe Data Boolean](#tipe-data-boolean)                           |
+| 5  | [Tipe Data String](#tipe-data-string)                             |
+| 6  | [Variable](#variable)                                             |
+| 7  | [Operator Matematika](#operator-matematika)                       |
+| 8  | [Operator Perbandingan](#operator-perbandingan)                   |
+| 9  | [Operator Logika](#operator-logika)                               |
+| 10 | [Console](#console)                                               |
+| 11 | [String Template](#string-template)                               |
+| 12 | [Konversi String dan Number](#konversi-string-dan-number)         |
+| 13 | [Tipe Data Array](#tipe-data-array)                               |
+| 14 | [Tipe Data Object](#tipe-data-object)                             |
+| 15 | [If Expressions](#if-expressions)                                 |
+| 16 | [Popup](#popup)                                                   |
+| 17 | [Undefined](#undefined)                                           |
+| 18 | [Null](#null)                                                     |
+| 19 | [Switch Expression](#switch-expression)                           |
+| 20 | [Operator Typeof](#operator-typeof)                               |
+| 21 | [Operator In](#operator-in)                                       |
+| 22 | [Ternary Operator](#ternary-operator)                             |
+| 23 | [Optional Chaining](#optional-chaining)                           |
+| 24 | [Falsy and Truthy](#falsy-and-truthy)                             |
+| 25 | [Operator Logika di Non Boolean](#operator-logika-di-non-boolean) |
+| 26 | [For Loop](#for-loop)                                             |
+| 27 | [While Loop](#while-loop)                                         |
+| 28 | [Do While Loop](#do-while-loop)                                   |
+| 29 | [Break and Continue](#break-and-continue)                         |
+| 30 | [Label](#label)                                                   |
+| 31 | [For In](#for-in)                                                 |
+| 32 | [For Of](#for-of)                                                 |
+| 33 | [With Statement](#with-statement)                                 |
+| 34 | [Function](#function)                                             |
+| 35 | [Function Parameter](#function-parameter)                         |
+| 36 | [Function Return Value](#function-return-value)                   |
+| 37 | [Optional Parameter](#optional-parameter)                         |
+| 38 | [Default Parameter](#default-parameter)                           |
+| 39 | [Rest Parameter](#rest-parameter)                                 |
+| 40 | [Function Sebagai Value](#function-sebagai-value)                 |
+| 41 | [Anonymous Function](#anonymous-function)                         |
+| 42 | [Function dalam Function](#function-dalam-function)               |
+| 43 | [Scope](#scope)                                                   |
+| 44 | [Recursive Function](#recursive-function)                         |
+| 45 | [Function Generator](#function-generator)                         |
+| 46 | [Arrow Function](#arrow-function)                                 |
+| 47 | [Closure](#closure)                                               |
+| 48 | [Object Method](#object-method)                                   |
+| 49 | [Kata Kunci This](#kata-kunci-this)                               |
+| 50 | [Arrow Function di Object](#arrow-function-di-object)             |
+| 51 | [Getter dan Setter](#getter-dan-setter)                           |
+| 52 | [Masalah Variable Var](#masalah-variable-var)                     |
+| 53 | [Destructuring](#destructuring)                                   |
+| 54 | [Strict Mode](#strict-mode)                                       |
 
 Sequel:
 
