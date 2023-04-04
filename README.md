@@ -1,6 +1,6 @@
 ---
 date created: 2023-04-04 09:38
-date updated: 2023-04-04 10:25
+date updated: 2023-04-04 10:55
 ---
 
 # Javascript Cheatsheets
@@ -1287,7 +1287,7 @@ pada konsol dan nilai `i` ditingkatkan sebesar 1 pada setiap iterasi menggunakan
 
 Output dari contoh di atas adalah:
 
-```javascript
+```
 Angka 1
 Angka 2
 Angka 3
